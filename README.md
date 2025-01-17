@@ -36,5 +36,13 @@ Product popularity varies significantly by region. Certain products contribute u
 The majority of recorded items have been successfully delivered, indicating that the overall delivery process is functioning well. However, further analysis could identify potential areas for improvement in delivery efficiency.
 
 ## Website
+- Dashboard
+  
+![Dashboard](dashboard/dashboard.png)
+
+- Dashboard Diagram
+  
+![Image Description](dashboard/All%20diagram.png)
 
 ## Author
+Muhammad Hadi Nur Fakhri
